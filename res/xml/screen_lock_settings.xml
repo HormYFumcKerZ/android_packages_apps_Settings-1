@@ -52,7 +52,7 @@
         android:title="@string/unlock_scramble_pin_layout_title"
         android:summary="@string/unlock_scramble_pin_layout_summary" />
 
-     <com.awaken.settings.preference.SecureSettingSwitchPreference
+     <com.awaken.support.preference.SecureSettingSwitchPreference
           android:key="secure_lockscreen_qs_disabled"
           android:title="@string/disable_qs_title"
           android:summary="@string/disable_qs_summary"
